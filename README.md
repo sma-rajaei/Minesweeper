@@ -1,4 +1,4 @@
-A Mini Project For Basic Programming Class MidTerm at Isfahan University of Technology
+A mini project developed for the Basic Programming course at Isfahan University of Technology
 
 Implemented a classic MineSweeper game using C.
 
